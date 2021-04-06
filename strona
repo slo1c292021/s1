@@ -1,0 +1,33 @@
+<!DOCTYPE HTML>
+<html lang="pl">
+<head>
+  <meta charset="utf-8" />
+  <title>OTO FIFA 21!</title>
+  <meta name="description" content="Ogólnie o grze FIFA 21" />
+  <meta name="keywords" content="FIFA" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+</head>
+
+<body>
+  <h1>OTO FIFA 21!</h1>
+  FIFA:
+  <a href="https://www.ea.com/pl-pl/games/fifa/fifa-21" target="_blank" title="Zobacz na stronie EA!">
+  Naprawdę fajna gra!
+  </a>
+  
+  <br></br>
+  
+  <a href="https://www.futbin.com" target="_blank" title="zobacz nowości na futbinie!"> 
+  <img width="1000" height="650" src="img/fifka.jpg" />
+  <img width="1000" height="650" src="img/urodziny.jpg" />
+  <img width="1000" height="650" src="img/mecz.jpg" />
+  </a>
+  
+  <br></br>
+  
+  <img width="1000" height="1000" src="img/ludzik.gif.gif" />
+     
+  
+</body>
+
+</html>
